@@ -1,2 +1,4 @@
-# Assembler-Simulator_4_Simple_RISC
+# Assembler & Simulator for Simple-RISC ISA
+
+
 Built an Assembler and Simulator for Simple Disc Arti.
