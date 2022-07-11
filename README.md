@@ -19,4 +19,4 @@ The project was based on building a low-level assembler and simulator for the Si
 	3. `--no-sim`: Does not evaluate the simulator
 
 
-### Developed by Bhagesh, Rishabh & Siddhant
+### Developed by Bhagesh Gaur, Rishabh Oberoi & Siddhant Aggarwal
